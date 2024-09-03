@@ -2,7 +2,7 @@
 
 **This repository is for archival purposes only. Please do not apply it.**
 
-**"Additionally, this project has many shortcomings; if you wish to use it as a reference, please look elsewhere."**
+**Additionally, this project has many shortcomings; if you wish to use it as a reference, please look elsewhere.**
 
 
 
